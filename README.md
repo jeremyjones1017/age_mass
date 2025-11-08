@@ -9,3 +9,5 @@ Age probability distribution is determined by:
 Mass probability distribution is determined in an analogous way, but using MIST isochrones and interpolating them over a mass resolution
 
 Provided here is the Star Profile for an example star. The MIST models will need to be downloaded and included in its own directory (age_mass/MIST_FeH+0.00/ for solar model)
+
+More details here: https://ui.adsabs.harvard.edu/abs/2025AJ....169...83B/abstract
